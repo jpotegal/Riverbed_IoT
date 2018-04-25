@@ -13,7 +13,7 @@
       #Install virtualenv for create isolated Python environment and dependency manager
       pip install virtualenv
       
-      #Test intsall
+      #Test install
       virtualenv --version
       <15.1.0>
       
@@ -23,7 +23,7 @@
       #Switch to directory
       cd Development
       
-      #Create your virtual environment
+      #Create your virtual environment (skip this step, git clone will do this for you)
       virtualenv my_project
       
       #Start the virtual environment
